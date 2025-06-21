@@ -34,7 +34,7 @@ If you find this repository helpful:
 
 - 🧑‍💻 **GitHub** – [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
 - 💼 **LinkedIn** – [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta)
-- 📧 **Email** – mrinmoysamantaofficial@gmail.com
+- 📧 **Email** – mrinmoysamantamrinmoysamanta@gmail.com
 
 ---
 
