@@ -30,6 +30,14 @@ If you find this repository helpful:
 
 ---
 
+## 📬 Connect with Me
+
+- 🧑‍💻 **GitHub** – [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
+- 💼 **LinkedIn** – [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta)
+- 📧 **Email** – mrinmoysamantaofficial@gmail.com
+
+---
+
 
 
 ## 📂 Folder Structure
