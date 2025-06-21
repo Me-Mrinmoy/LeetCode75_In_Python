@@ -19,6 +19,19 @@ Welcome to **LeetCode75_In_Python**! This repository contains solutions to vario
 
 ---
 
+## 💬 Support & Feedback
+
+If you find this repository helpful:
+
+- 🌟 **Star this repo**
+- 🔄 **Fork and contribute**
+- 🐞 **Report issues or bugs**
+- 📝 **Share your suggestions via [Issues](https://github.com/Me-Mrinmoy/Leetcode_75_In_python/issues)**
+
+---
+
+
+
 ## 📂 Folder Structure
 
 ```bash
