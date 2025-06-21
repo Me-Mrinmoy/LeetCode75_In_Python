@@ -38,7 +38,14 @@ If you find this repository helpful:
 
 ---
 
+## 🚀 How to Use
 
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Me-Mrinmoy/Leetcode_75_In_python.git
+   cd Leetcode_75_In_python
+
+---
 
 ## 📂 Folder Structure
 
